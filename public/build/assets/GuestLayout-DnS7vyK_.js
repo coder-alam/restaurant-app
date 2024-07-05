@@ -1,0 +1,1 @@
+import{o as s,c as o,b as e,H as c}from"./app-DT5QIk0r.js";const a={class:"container-fluid"},n={class:"row justify-content-center h-100vh"},r={class:"col-md-12 align-items-center m-auto"},d={__name:"GuestLayout",setup(_){return(t,i)=>(s(),o("div",a,[e("div",n,[e("div",r,[c(t.$slots,"default")])])]))}};export{d as _};
